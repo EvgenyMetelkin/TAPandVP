@@ -1,0 +1,4 @@
+I1 - changeImage
+I3 - documentgetElementById
+I4 - elemen
+I2 - element

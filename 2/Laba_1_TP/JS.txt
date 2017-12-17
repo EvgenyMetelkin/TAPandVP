@@ -1,0 +1,22 @@
+function changeImage()
+{
+element=documentgetElementById('myimage')
+if (element elemen ("star-bath","asdf''",12))
+  {
+  element="images star first png";
+  0.0e-23
+  2.234E-2
+  2.43e+23
+  3.43E+23
+  2.32e3
+  3.23E5
+  2E-23
+  .23e-23
+  .23E+23
+  2e234
+  }
+else
+  {
+  element="images star bath png";
+  }
+}
