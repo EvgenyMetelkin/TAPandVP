@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TPP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TPP_jar</output-path>
+    <root id="archive" name="TPP.jar">
+      <element id="module-output" name="TPP" />
+    </root>
+  </artifact>
+</component>
